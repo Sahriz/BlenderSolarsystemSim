@@ -1,7 +1,7 @@
 # BlenderSolarsystemSim
 A solar system simulation using Euler approximation, animating each planet using keyframes and a custom UI to allow the user to create their own solar systems.
 
-This project was done in 2024 for the course TNM085 - Modelling Project at LIU. Its purpose was to first simulate a number of planets revolving around a sun, and then visualise it. The code has since been changed to match new standards in blender python, mainly the names of different nodes in the shader changed. 
+This project was done in 2024 for the course TNM085 - Modelling Project at LIU, made by Jonatan Ebenholm, Berkay Orhan, Ludwig Boge, and Nikita Sidarovich. Its purpose was to first simulate a number of planets revolving around a sun, and then visualise it. The code has since been changed to match new standards in blender python, mainly the names of different nodes in the shader changed. 
 
 The project can be viewed ether by wathing the pretty images below, or by installing the zip-file and adding it as an addong to a blender project. This can be done by making new general project, pressing the edit button up in the top left, pressing preferences button clicking on add-ons in the pop up menu. Lastly, click the arrow in the top right to bring down a menu and press "install from disk". Choose the zip file, and you're done! Now, if you press n on your keyboard while in the workspace, the sidebar will show up. Navigate to the Solarsystem Simulator and start simulating!
 
