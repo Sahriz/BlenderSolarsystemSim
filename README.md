@@ -14,3 +14,5 @@ Here are some of the resulting images, but keep in mind that the simulation also
 ![RedoVisning4](https://github.com/user-attachments/assets/e7a74c4d-ed13-4ff4-9021-a31925d0b8df)
 ![RedoVisning7](https://github.com/user-attachments/assets/3c34b4d3-0f97-4fd0-9b98-9da4874b309e)
 ![RedoVisning8](https://github.com/user-attachments/assets/3c8a39f4-a097-4e95-9978-b29982efb372)
+![system](https://github.com/user-attachments/assets/69698ec2-7118-48b5-a64d-757375720ef2)
+![panel](https://github.com/user-attachments/assets/753d0e32-4b10-45da-b080-629c771e8298)
